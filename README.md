@@ -40,46 +40,20 @@ Download it here: [https://www.python.org/downloads/](https://www.python.org/dow
 ---
 
 ### 2. 📁 Clone the Repository  
-
-```bash
+```
 git clone https://github.com/Hamzaiscooly/FocusFlick.git
 cd FocusFlick
-3. 📦 Install Required Modules
-Install the dependencies:
+```
+### 3. 📦 Requirements  
+
+All the dependencies required to run **FocusFlick** are listed in the `requirements.txt` file. To install them, simply run:
 
 ```bash
-Copy
-Edit
-pip install customtkinter pillow
-Third-party libraries:
-
-customtkinter – modern GUI support
-
-Pillow – image handling (PIL.Image)
-
-Standard Python libraries (no install needed):
-
-random
-
-json
-
-os
-
-time
-
-datetime
-
-platform
-
-webbrowser
-
-threading
-
-4. ▶️ Run FocusFlick
+pip install -r requirements.txt
+```
+### 4. ▶️ Run FocusFlick
 To start the app, run:
 
-```bash
-Copy
-Edit
-python main.py
-💡 Replace main.py with your actual main script if it's named differently.
+```
+python FocusFlick.py
+```
