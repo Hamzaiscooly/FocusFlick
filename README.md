@@ -1,4 +1,5 @@
 # 🎯 FocusFlick
+![FocusFlick Screenshot](https://github.com/Hamzaiscooly/FocusFlick/blob/main/FocusFlick.JPG)
 FocusFlick is your all-in-one productivity companion, designed to help you study smarter, build strong habits, and stay motivated through gamified goals and streaks. Whether you're preparing for exams or just want to stay focused, FocusFlick has your back.
 
 # 🚀 Features
