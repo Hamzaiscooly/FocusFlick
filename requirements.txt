@@ -1,1 +1,12 @@
-
+Requirements:
+customtkinter
+pillow
+The following libraries are part of Python's standard library and do not need to be installed via pip:
+random
+json
+os
+time
+datetime
+platform
+webbrowser
+threading
